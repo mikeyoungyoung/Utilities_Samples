@@ -1,0 +1,44 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-06-16T15:46:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 252237926,
+  "bounds": {
+    "minlat": 53.3291590,
+    "minlon": -104.0145412,
+    "maxlat": 53.3362307,
+    "maxlon": -104.0024424
+  },
+  "nodes": [
+    2583290209,
+    2583290199,
+    2583285774,
+    2583285784,
+    2583290209
+  ],
+  "geometry": [
+    { "lat": 53.3362307, "lon": -104.0145412 },
+    { "lat": 53.3362103, "lon": -104.0025451 },
+    { "lat": 53.3291590, "lon": -104.0024424 },
+    { "lat": 53.3291794, "lon": -104.0145070 },
+    { "lat": 53.3362307, "lon": -104.0145412 }
+  ],
+  "tags": {
+    "aeroway": "aerodrome",
+    "icao": "CYBU",
+    "name": "Nipawin Airport",
+    "operator": "Town of Nipawin",
+    "wikidata": "Q3914593",
+    "wikipedia": "en:Nipawin Airport"
+  }
+}
+
+  ]
+}
